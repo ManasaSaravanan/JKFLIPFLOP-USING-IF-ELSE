@@ -61,14 +61,19 @@ endmodule
 ```
 
 **RTL LOGIC FOR FLIPFLOPS**
+
+
 ![WhatsApp Image 2024-10-24 at 11 26 19_7bceded9](https://github.com/user-attachments/assets/609cbe81-914f-4c2e-819c-a1a8fb8ebeb7)
 
 
 
 **TIMING DIAGRAMS FOR FLIP FLOPS**
+
+
 ![WhatsApp Image 2024-10-24 at 11 28 54_a9929f76](https://github.com/user-attachments/assets/0b2364a8-58bd-4476-83b5-7caa09b3049b)
 
 
 **RESULTS**
 implement  JK flipflop using Verilog is successful
-](https://github.com/ManasaSaravanan/SR-FLIPFLOP-USING-CASE.git)
+
+
